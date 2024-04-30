@@ -366,6 +366,9 @@ form .send-btn:hover{
 .home-img{
     padding: 10px;
 }
+   .about-img{
+    margin-bottom: 33px;
+}
 }
 @media (max-width: 350px){
     .home-text h1{
